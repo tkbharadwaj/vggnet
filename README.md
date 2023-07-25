@@ -1,13 +1,13 @@
 # vggnet
 Using VGG-13 to classify CIFAR-10 Images
 
-~91.3% Test Accuracy
+~91.4% Test Accuracy
 
-Number of Epochs: 80
+Number of Epochs: 110
 
 Batch Size: 128
 
-Learning Rate Schedule: Initialize to .01, reduce by a factor of 2 at 50 and 70 epochs
+Learning Rate Schedule: Initialize to .01, reduce by a factor of 10 at 80 and 100 epochs
 
 Weight Decay: 5E-4
 
