@@ -1,7 +1,7 @@
 # vggnet
 Using VGG-13 to classify CIFAR-10 Images
 
-~91.4% Test Accuracy
+~91.5% Test Accuracy
 
 Number of Epochs: 110
 
